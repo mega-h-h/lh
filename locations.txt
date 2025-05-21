@@ -1,5 +1,1 @@
-Latitude: 16.9544106, Longitude: 96.1350988, Timestamp: 2025-05-20T15:58:42.315Z
-Latitude: 16.9544106, Longitude: 96.1350988, Timestamp: 2025-05-20T16:05:14.325Z
-Latitude: 16.9543718, Longitude: 96.1352495, Timestamp: 2025-05-20T16:14:20.635Z
-Latitude: 16.9703407, Longitude: 96.1255403, Timestamp: 2025-05-21T15:35:44.755Z
-Latitude: 16.9686238, Longitude: 96.1414424, Timestamp: 2025-05-21T15:54:14.729Z
+
