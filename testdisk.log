@@ -1,0 +1,31 @@
+
+
+Tue May 20 13:48:50 2025
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 6.8.0-60-generic (#63-Ubuntu SMP PREEMPT_DYNAMIC Tue Apr 15 19:04:15 UTC 2025) x86_64
+Compiler: GCC 13.2
+ext2fs lib: 1.47.0, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.4
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop3 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop4 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop5 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop6 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop7 - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/vda - 26 GB / 25 GiB - CHS 52012 16 63, sector size=512
+Disk /dev/loop0 - 53 MB / 50 MiB - 104232 sectors (RO), sector size=512
+Disk /dev/loop1 - 77 MB / 73 MiB - 151328 sectors (RO), sector size=512
+Disk /dev/loop2 - 7610 KB / 7432 KiB - 14864 sectors (RO), sector size=512
+
+Partition table type (auto): EFI GPT
+Disk /dev/vda - 26 GB / 25 GiB
+Partition table type: EFI GPT
+Partition table type defaults to Intel
+Media is opened in read-only.
+Partition table type defaults to Intel
+Media is opened in read-only.
+SIGINT detected! TestDisk has been killed.
